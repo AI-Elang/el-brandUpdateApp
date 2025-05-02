@@ -1,0 +1,9 @@
+{
+  "version": "1.0.1",
+  "build_number": 1,
+  "force_update": true,
+  "url": "https://github.com/AI-Elang/el-brandUpdateApp/releases/download/v1.0.1/app-release.apk",
+  "changelog": [
+    "Update form checkin dropdown matpro "
+  ]
+}
