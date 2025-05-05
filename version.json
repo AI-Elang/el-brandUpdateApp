@@ -1,0 +1,9 @@
+{
+  "version": "1.0.3",
+  "build_number": 1,
+  "force_update": true,
+  "url": "https://github.com/AI-Elang/el-brandUpdateApp/releases/download/v1.0.3/app-release.apk",
+  "changelog": [
+    "Update stock matpro add new column allocation and promo",    "Updare new dropdown site ",    "Update change image default visibility"
+  ]
+}
