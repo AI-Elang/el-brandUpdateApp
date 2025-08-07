@@ -1,0 +1,9 @@
+{
+  "version": "1.0.8",
+  "build_number": 1,
+  "force_update": true,
+  "url": "https://github.com/AI-Elang/el-brandUpdateApp/releases/download/v1.0.8/app-release.apk",
+  "changelog": [
+    "Rename apps from braind to matpro"
+  ]
+}
